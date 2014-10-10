@@ -1,0 +1,1137 @@
+{
+	"entity": [
+		{
+			"animation": [
+				{
+					"id": 0,
+					"length": 1600,
+					"mainline": {
+						"key": [
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"timeline": 5
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 0,
+										"timeline": 6
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 0,
+										"timeline": 7
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 0,
+										"timeline": 8
+									}
+								],
+								"c1": 0.995260663507109,
+								"curve_type": "quadratic",
+								"id": 0,
+								"object_ref": [
+									{
+										"abs_a": 1,
+										"abs_angle": 354.11380739386755,
+										"abs_pivot_x": 0.71129,
+										"abs_pivot_y": 0.939663,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -214.16197261678008,
+										"abs_y": -88.08791050906089,
+										"file": 3,
+										"folder": 0,
+										"id": 0,
+										"key": 0,
+										"name": "owl_wing_r",
+										"parent": 1,
+										"timeline": 2,
+										"z_index": "0"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 39.853780440789706,
+										"abs_pivot_x": 0.428502,
+										"abs_pivot_y": 0.91934,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": 108.31333063431416,
+										"abs_y": -192.78673014585945,
+										"file": 2,
+										"folder": 0,
+										"id": 1,
+										"key": 0,
+										"name": "owl_wing_l",
+										"parent": 2,
+										"timeline": 1,
+										"z_index": "1"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 15.3994327834626,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -346.95991989863603,
+										"abs_y": -256.2762112997466,
+										"file": 0,
+										"folder": 0,
+										"id": 2,
+										"key": 0,
+										"name": "owl_body",
+										"parent": 0,
+										"timeline": 0,
+										"z_index": "2"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 15.3994327834626,
+										"abs_pivot_x": 0.536364,
+										"abs_pivot_y": 0.52408,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -246.9873147019334,
+										"abs_y": -119.75227739086262,
+										"file": 1,
+										"folder": 0,
+										"id": 3,
+										"key": 0,
+										"name": "owl_eye_r",
+										"parent": 3,
+										"timeline": 3,
+										"z_index": "3"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 15.3994327834626,
+										"abs_pivot_x": 0.536364,
+										"abs_pivot_y": 0.52408,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": 43.236287690862326,
+										"abs_y": -211.7014006410118,
+										"file": 1,
+										"folder": 0,
+										"id": 4,
+										"key": 0,
+										"name": "owl_eye_l",
+										"parent": 3,
+										"timeline": 4,
+										"z_index": "4"
+									}
+								]
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 1,
+										"timeline": 5
+									},
+									{
+										"id": 1,
+										"key": 1,
+										"parent": 0,
+										"timeline": 6
+									},
+									{
+										"id": 2,
+										"key": 1,
+										"parent": 0,
+										"timeline": 7
+									},
+									{
+										"id": 3,
+										"key": 1,
+										"parent": 0,
+										"timeline": 8
+									}
+								],
+								"c1": 0,
+								"c2": 0.995260663507109,
+								"curve_type": "cubic",
+								"id": 1,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 1,
+										"parent": 1,
+										"timeline": 2,
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 1,
+										"parent": 2,
+										"timeline": 1,
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 1,
+										"parent": 0,
+										"timeline": 0,
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 1,
+										"parent": 3,
+										"timeline": 3,
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 1,
+										"parent": 3,
+										"timeline": 4,
+										"z_index": "4"
+									}
+								],
+								"time": 400
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 2,
+										"timeline": 5
+									},
+									{
+										"id": 1,
+										"key": 2,
+										"parent": 0,
+										"timeline": 6
+									},
+									{
+										"id": 2,
+										"key": 2,
+										"parent": 0,
+										"timeline": 7
+									},
+									{
+										"id": 3,
+										"key": 2,
+										"parent": 0,
+										"timeline": 8
+									}
+								],
+								"c1": 0.995260663507109,
+								"curve_type": "quadratic",
+								"id": 2,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 2,
+										"parent": 1,
+										"timeline": 2,
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 2,
+										"parent": 2,
+										"timeline": 1,
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 2,
+										"parent": 0,
+										"timeline": 0,
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 2,
+										"parent": 3,
+										"timeline": 3,
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 2,
+										"parent": 3,
+										"timeline": 4,
+										"z_index": "4"
+									}
+								],
+								"time": 800
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 3,
+										"timeline": 5
+									},
+									{
+										"id": 1,
+										"key": 3,
+										"parent": 0,
+										"timeline": 6
+									},
+									{
+										"id": 2,
+										"key": 3,
+										"parent": 0,
+										"timeline": 7
+									},
+									{
+										"id": 3,
+										"key": 3,
+										"parent": 0,
+										"timeline": 8
+									}
+								],
+								"c1": 0,
+								"c2": 0.995260663507109,
+								"curve_type": "cubic",
+								"id": 3,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 3,
+										"parent": 1,
+										"timeline": 2,
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 3,
+										"parent": 2,
+										"timeline": 1,
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 3,
+										"parent": 0,
+										"timeline": 0,
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 3,
+										"parent": 3,
+										"timeline": 3,
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 3,
+										"parent": 3,
+										"timeline": 4,
+										"z_index": "4"
+									}
+								],
+								"time": 1200
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 4,
+										"timeline": 5
+									},
+									{
+										"id": 1,
+										"key": 4,
+										"parent": 0,
+										"timeline": 6
+									},
+									{
+										"id": 2,
+										"key": 4,
+										"parent": 0,
+										"timeline": 7
+									},
+									{
+										"id": 3,
+										"key": 4,
+										"parent": 0,
+										"timeline": 8
+									}
+								],
+								"id": 4,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 4,
+										"parent": 1,
+										"timeline": 2,
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 4,
+										"parent": 2,
+										"timeline": 1,
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 4,
+										"parent": 0,
+										"timeline": 0,
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 4,
+										"parent": 3,
+										"timeline": 3,
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 4,
+										"parent": 3,
+										"timeline": 4,
+										"z_index": "4"
+									}
+								],
+								"time": 1600
+							}
+						]
+					},
+					"name": "voo",
+					"soundline": [],
+					"timeline": [
+						{
+							"id": 0,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 90.67802499999999,
+										"file": 0,
+										"folder": 0,
+										"x": -69.08107399999989,
+										"y": -260.07616399999995
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 90.67802499999999,
+										"file": 0,
+										"folder": 0,
+										"x": -69.08107399999989,
+										"y": -260.07616399999995
+									},
+									"spin": 0,
+									"time": 400
+								},
+								{
+									"id": 2,
+									"object": {
+										"angle": 90.67802499999999,
+										"file": 0,
+										"folder": 0,
+										"x": -69.08107399999989,
+										"y": -260.07616399999995
+									},
+									"spin": 0,
+									"time": 800
+								},
+								{
+									"id": 3,
+									"object": {
+										"angle": 90.67802499999999,
+										"file": 0,
+										"folder": 0,
+										"x": -69.08107399999989,
+										"y": -260.07616399999995
+									},
+									"spin": 0,
+									"time": 1200
+								},
+								{
+									"id": 4,
+									"object": {
+										"angle": 90.67802499999999,
+										"file": 0,
+										"folder": 0,
+										"x": -69.08107399999989,
+										"y": -260.07616399999995
+									},
+									"spin": 0,
+									"time": 1600
+								}
+							],
+							"name": "owl_body",
+							"obj": 0
+						},
+						{
+							"id": 1,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 26.151868000000036,
+										"file": 2,
+										"folder": 0,
+										"pivot_x": 0.428502,
+										"pivot_y": 0.91934,
+										"x": 82.81763600000006,
+										"y": 68.35499099999994
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 26.151868000000036,
+										"file": 2,
+										"folder": 0,
+										"pivot_x": 0.428502,
+										"pivot_y": 0.91934,
+										"x": 82.81763600000006,
+										"y": 68.35499099999994
+									},
+									"spin": 0,
+									"time": 400
+								},
+								{
+									"id": 2,
+									"object": {
+										"angle": 26.151868000000036,
+										"file": 2,
+										"folder": 0,
+										"pivot_x": 0.428502,
+										"pivot_y": 0.91934,
+										"x": 82.81763600000006,
+										"y": 68.35499099999994
+									},
+									"spin": 0,
+									"time": 800
+								},
+								{
+									"id": 3,
+									"object": {
+										"angle": 26.151868000000036,
+										"file": 2,
+										"folder": 0,
+										"pivot_x": 0.428502,
+										"pivot_y": 0.91934,
+										"x": 82.81763600000006,
+										"y": 68.35499099999994
+									},
+									"spin": 0,
+									"time": 1200
+								},
+								{
+									"id": 4,
+									"object": {
+										"angle": 26.151868000000036,
+										"file": 2,
+										"folder": 0,
+										"pivot_x": 0.428502,
+										"pivot_y": 0.91934,
+										"x": 82.81763600000006,
+										"y": 68.35499099999994
+									},
+									"spin": 0,
+									"time": 1600
+								}
+							],
+							"name": "owl_wing_l",
+							"obj": 2
+						},
+						{
+							"id": 2,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 156.67187900000002,
+										"file": 3,
+										"folder": 0,
+										"pivot_x": 0.71129,
+										"pivot_y": 0.939663,
+										"x": 63.86374399999993,
+										"y": -60.57091300000011
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 156.67187900000002,
+										"file": 3,
+										"folder": 0,
+										"pivot_x": 0.71129,
+										"pivot_y": 0.939663,
+										"x": 63.86374399999993,
+										"y": -60.57091300000011
+									},
+									"spin": 0,
+									"time": 400
+								},
+								{
+									"id": 2,
+									"object": {
+										"angle": 156.67187900000002,
+										"file": 3,
+										"folder": 0,
+										"pivot_x": 0.71129,
+										"pivot_y": 0.939663,
+										"x": 63.86374399999993,
+										"y": -60.57091300000011
+									},
+									"spin": 0,
+									"time": 800
+								},
+								{
+									"id": 3,
+									"object": {
+										"angle": 156.67187900000002,
+										"file": 3,
+										"folder": 0,
+										"pivot_x": 0.71129,
+										"pivot_y": 0.939663,
+										"x": 63.86374399999993,
+										"y": -60.57091300000011
+									},
+									"spin": 0,
+									"time": 1200
+								},
+								{
+									"id": 4,
+									"object": {
+										"angle": 156.67187900000002,
+										"file": 3,
+										"folder": 0,
+										"pivot_x": 0.71129,
+										"pivot_y": 0.939663,
+										"x": 63.86374399999993,
+										"y": -60.57091300000011
+									},
+									"spin": 0,
+									"time": 1600
+								}
+							],
+							"name": "owl_wing_r",
+							"obj": 3
+						},
+						{
+							"id": 3,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 90.90938044919915,
+										"file": 1,
+										"folder": 0,
+										"pivot_x": 0.536364,
+										"pivot_y": 0.52408,
+										"x": 195.26048754384257,
+										"y": -168.82011631747147
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 90.90938044919915,
+										"file": 1,
+										"folder": 0,
+										"pivot_x": 0.536364,
+										"pivot_y": 0.52408,
+										"x": 195.26048754384257,
+										"y": -168.82011631747147
+									},
+									"spin": 0,
+									"time": 400
+								},
+								{
+									"id": 2,
+									"object": {
+										"angle": 90.90938044919915,
+										"file": 1,
+										"folder": 0,
+										"pivot_x": 0.536364,
+										"pivot_y": 0.52408,
+										"x": 195.26048754384257,
+										"y": -168.82011631747147
+									},
+									"spin": 0,
+									"time": 800
+								},
+								{
+									"id": 3,
+									"object": {
+										"angle": 90.90938044919915,
+										"file": 1,
+										"folder": 0,
+										"pivot_x": 0.536364,
+										"pivot_y": 0.52408,
+										"x": 195.26048754384257,
+										"y": -168.82011631747147
+									},
+									"spin": 0,
+									"time": 1200
+								},
+								{
+									"id": 4,
+									"object": {
+										"angle": 90.90938044919915,
+										"file": 1,
+										"folder": 0,
+										"pivot_x": 0.536364,
+										"pivot_y": 0.52408,
+										"x": 195.26048754384257,
+										"y": -168.82011631747147
+									},
+									"spin": 0,
+									"time": 1600
+								}
+							],
+							"name": "owl_eye_r",
+							"obj": 4
+						},
+						{
+							"id": 4,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 90.90938044919915,
+										"file": 1,
+										"folder": 0,
+										"pivot_x": 0.536364,
+										"pivot_y": 0.52408,
+										"x": 178.8535672273524,
+										"y": 135.17855739353516
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 90.90938044919915,
+										"file": 1,
+										"folder": 0,
+										"pivot_x": 0.536364,
+										"pivot_y": 0.52408,
+										"x": 178.8535672273524,
+										"y": 135.17855739353516
+									},
+									"spin": 0,
+									"time": 400
+								},
+								{
+									"id": 2,
+									"object": {
+										"angle": 90.90938044919915,
+										"file": 1,
+										"folder": 0,
+										"pivot_x": 0.536364,
+										"pivot_y": 0.52408,
+										"x": 178.8535672273524,
+										"y": 135.17855739353516
+									},
+									"spin": 0,
+									"time": 800
+								},
+								{
+									"id": 3,
+									"object": {
+										"angle": 90.90938044919915,
+										"file": 1,
+										"folder": 0,
+										"pivot_x": 0.536364,
+										"pivot_y": 0.52408,
+										"x": 178.8535672273524,
+										"y": 135.17855739353516
+									},
+									"spin": 0,
+									"time": 1200
+								},
+								{
+									"id": 4,
+									"object": {
+										"angle": 90.90938044919915,
+										"file": 1,
+										"folder": 0,
+										"pivot_x": 0.536364,
+										"pivot_y": 0.52408,
+										"x": 178.8535672273524,
+										"y": 135.17855739353516
+									},
+									"spin": 0,
+									"time": 1600
+								}
+							],
+							"name": "owl_eye_l",
+							"obj": 6
+						},
+						{
+							"id": 5,
+							"key": [
+								{
+									"bone": {
+										"angle": 284.7214077834626,
+										"x": -77.86647294070079,
+										"y": 255.553251933513
+									},
+									"id": 0,
+									"spin": 0
+								},
+								{
+									"bone": {
+										"angle": 284.7214077834626,
+										"x": -102.39477482749322,
+										"y": 297.0626858957771
+									},
+									"id": 1,
+									"spin": -1,
+									"time": 400
+								},
+								{
+									"bone": {
+										"angle": 282.65387040490015,
+										"x": -70.31930312938005,
+										"y": 246.11928966936202
+									},
+									"id": 2,
+									"time": 800
+								},
+								{
+									"bone": {
+										"angle": 284.0186960137311,
+										"x": -94.84760501617245,
+										"y": 325.3645726882298
+									},
+									"id": 3,
+									"time": 1200
+								},
+								{
+									"bone": {
+										"angle": 284.7214077834626,
+										"x": -77.86647294070079,
+										"y": 255.553251933513
+									},
+									"id": 4,
+									"spin": 0,
+									"time": 1600
+								}
+							],
+							"name": "corpo",
+							"obj": 7,
+							"object_type": "bone"
+						},
+						{
+							"id": 6,
+							"key": [
+								{
+									"bone": {
+										"angle": 272.72052061040495,
+										"x": 184.80401800000004,
+										"y": -107.71077499999997
+									},
+									"id": 0
+								},
+								{
+									"bone": {
+										"angle": 314.78620514236746,
+										"x": 184.80401800000004,
+										"y": -107.71077499999997
+									},
+									"id": 1,
+									"spin": -1,
+									"time": 400
+								},
+								{
+									"bone": {
+										"angle": 272.72052061040495,
+										"x": 184.80401799999999,
+										"y": -107.71077499999994
+									},
+									"id": 2,
+									"time": 800
+								},
+								{
+									"bone": {
+										"angle": 314.78620514236746,
+										"x": 184.80401800000007,
+										"y": -107.71077500000001
+									},
+									"id": 3,
+									"spin": -1,
+									"time": 1200
+								},
+								{
+									"bone": {
+										"angle": 272.72052061040495,
+										"x": 184.80401800000004,
+										"y": -107.71077499999997
+									},
+									"id": 4,
+									"spin": 0,
+									"time": 1600
+								}
+							],
+							"name": "asa_r",
+							"obj": 8,
+							"object_type": "bone"
+						},
+						{
+							"id": 7,
+							"key": [
+								{
+									"bone": {
+										"angle": 88.98050465732706,
+										"x": 174.88859299999996,
+										"y": 80.097129
+									},
+									"id": 0,
+									"spin": -1
+								},
+								{
+									"bone": {
+										"angle": 52.2515734195681,
+										"x": 174.88859299999996,
+										"y": 80.097129
+									},
+									"id": 1,
+									"time": 400
+								},
+								{
+									"bone": {
+										"angle": 88.98050465732706,
+										"x": 174.88859299999996,
+										"y": 80.097129
+									},
+									"id": 2,
+									"spin": -1,
+									"time": 800
+								},
+								{
+									"bone": {
+										"angle": 52.2515734195681,
+										"x": 174.88859299999996,
+										"y": 80.09712900000001
+									},
+									"id": 3,
+									"time": 1200
+								},
+								{
+									"bone": {
+										"angle": 88.98050465732706,
+										"x": 174.88859299999996,
+										"y": 80.097129
+									},
+									"id": 4,
+									"spin": 0,
+									"time": 1600
+								}
+							],
+							"name": "asa_l",
+							"obj": 10,
+							"object_type": "bone"
+						},
+						{
+							"id": 8,
+							"key": [
+								{
+									"bone": {
+										"angle": 359.76864455080084,
+										"x": -106.21107335592346,
+										"y": -28.471560342766182
+									},
+									"id": 0,
+									"spin": 0
+								},
+								{
+									"bone": {
+										"angle": 359.76864455080084,
+										"x": -96.99377369332649,
+										"y": -23.090024200389077
+									},
+									"id": 1,
+									"spin": 0,
+									"time": 400
+								},
+								{
+									"bone": {
+										"angle": 359.76864455080084,
+										"x": -113.60351854289868,
+										"y": -34.33256692517075
+									},
+									"id": 2,
+									"spin": 0,
+									"time": 800
+								},
+								{
+									"bone": {
+										"angle": 359.76864455080084,
+										"x": -96.99377369332652,
+										"y": -23.090024200389085
+									},
+									"id": 3,
+									"spin": 0,
+									"time": 1200
+								},
+								{
+									"bone": {
+										"angle": 359.76864455080084,
+										"x": -106.21107335592346,
+										"y": -28.471560342766182
+									},
+									"id": 4,
+									"spin": 0,
+									"time": 1600
+								}
+							],
+							"name": "Olho",
+							"obj": 9,
+							"object_type": "bone"
+						}
+					]
+				}
+			],
+			"character_map": [],
+			"id": 0,
+			"name": "coruja",
+			"obj_info": [
+				{
+					"frames": [
+						{
+							"file": 0,
+							"folder": 0
+						}
+					],
+					"name": "owl_body",
+					"type": "sprite"
+				},
+				{
+					"frames": [],
+					"name": "owl_eye",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 2,
+							"folder": 0
+						}
+					],
+					"name": "owl_wing_l",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 3,
+							"folder": 0
+						}
+					],
+					"name": "owl_wing_r",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 1,
+							"folder": 0
+						}
+					],
+					"name": "owl_eye_r",
+					"type": "sprite"
+				},
+				{
+					"frames": [],
+					"name": "owl_eye_001",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 1,
+							"folder": 0
+						}
+					],
+					"name": "owl_eye_l",
+					"type": "sprite"
+				},
+				{
+					"h": 10,
+					"name": "corpo",
+					"type": "bone",
+					"w": 557.182
+				},
+				{
+					"h": 10,
+					"name": "asa_r",
+					"type": "bone",
+					"w": 191.477
+				},
+				{
+					"h": 10,
+					"name": "Olho",
+					"type": "bone",
+					"w": 75.00944762868268
+				},
+				{
+					"h": 10,
+					"name": "asa_l",
+					"type": "bone",
+					"w": 204.446
+				}
+			]
+		}
+	],
+	"folder": [
+		{
+			"file": [
+				{
+					"height": 670,
+					"id": 0,
+					"name": "owl_body.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 508
+				},
+				{
+					"height": 23,
+					"id": 1,
+					"name": "owl_eye.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 24
+				},
+				{
+					"height": 184,
+					"id": 2,
+					"name": "owl_wing_l.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 229
+				},
+				{
+					"height": 171,
+					"id": 3,
+					"name": "owl_wing_r.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 214
+				}
+			],
+			"id": 0
+		}
+	],
+	"generator": "BrashMonkey Spriter",
+	"generator_version": "b8",
+	"scon_version": "1.0"
+}
